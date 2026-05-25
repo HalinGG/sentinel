@@ -1,6 +1,6 @@
 # Container Security Assessment
 **Candidate:** Halin Gordon | **Role:** Senior Security/Software Engineer  
-**Date:** 2026-05-25 | **Environment:** GCP Ubuntu 26.04, 2 vCPU, 2GB RAM
+**Date:** 2026-05-25 | **Environment:** GCP, Ubuntu 26.04 e2-medium (2 vCPUs, 4 GB Memory)
 
 ---
 
